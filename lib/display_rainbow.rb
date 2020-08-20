@@ -6,4 +6,3 @@ def display_rainbow(colors)
 
   print display_rainbow(rainbow)
 
-end
